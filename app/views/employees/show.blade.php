@@ -1,0 +1,1 @@
+/vagrant/sites/phantom-reporter.dev/app/views/employees/show.blade.php
